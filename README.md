@@ -28,8 +28,11 @@
 
 ---
 
-## 🔥 My GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishalPandatt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+## 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishalPandatt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
