@@ -1,7 +1,7 @@
 # Hi there, I'm Vishal Vashishth 👋  
 
 💻 **Full Stack Developer (in progress!)**  
-🌱 Currently learning **JavaScript & Full Stack Development**  
+🌱 Currently learning **React & Full Stack Development**  
 🚀 Building projects like landing pages, Spotify clone, and my portfolio  
 🎯 Goal: Become a skilled Full Stack Developer.
 
@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript (learning React soon 🚀)  
+- **Frontend:** HTML, CSS, JavaScript (learning React🚀)  
 - **Backend:** Basics of Node.js (on the way)  
 - **Other:** Git, GitHub  
 
