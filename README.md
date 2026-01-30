@@ -30,12 +30,12 @@
 
 ## 🔥 Current GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalPandatt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=vishalPandatt&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalPandatt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalPandatt&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Project,portfolio-website" />
 </p>
 
 
