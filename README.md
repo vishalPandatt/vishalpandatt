@@ -1,8 +1,8 @@
 # Hi there, I'm Vishal Vashishth 👋  
 
-💻 **Full Stack Developer (in progress!)**  
-🌱 Currently learning **React & Full Stack Development**  
-🚀 Building projects like landing pages, Spotify clone, and my portfolio  
+💻 **Full Stack Developer **  
+🌱 Currently learning **Backend Technologies**  
+🚀 Building projects like Medicare, Farming Simulation, and my portfolio  
 🎯 Goal: Become a skilled Full Stack Developer.
 
 ---
@@ -15,16 +15,17 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript (learning React🚀)  
-- **Backend:** Basics of Node.js (on the way)  
-- **Other:** Git, GitHub  
+- **Frontend:** HTML/CSS, JavaScript, ReactJS
+- **Backend:** Basics of Node.js, Express.JS  
+- **DataBase & Tach** SQL, MongoDB, Git, GitHub, VS Code, Netlify, Railway, Redux  
 
 ---
 
-## 📌 Projects  
+## 📌 Projects
+- 🌐 **Farming Simulation** - Helping Farmers to wheather pridictions and water stress lavel
 - 🎶 **Spotify Clone** – A fun music player inspired by Spotify  
 - 🌐 **Portfolio Website** – My personal corner on the internet  
-- 📄 **Landing Pages Collection** – 4–5 creative responsive pages  
+- 📄 **Landing Pages Collection** – 10+ creative responsive pages  
 
 ---
 
