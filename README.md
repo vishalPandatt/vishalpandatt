@@ -21,23 +21,14 @@
 
 ---
 
-## 📌 Projects
-- 🌐 **Farming Simulation** – Helping farmers with weather predictions and water stress levels  
-- 🎶 **Spotify Clone** – A fun music player inspired by Spotify  
-- 🌐 **Portfolio Website** – My personal corner on the internet  
-- 📄 **Landing Pages Collection** – 10+ creative responsive pages  
-
----
-
 ## 🔥 Current GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishalpandatt&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandatt&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Project,portfolio-website" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandatt&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Project,portfolio-website" />
+
 
 ---
 
