@@ -27,8 +27,7 @@
 </p>
 
 ## 🚀 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandatt&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Project,portfolio-website" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalpandatt&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Project,portfolio-website" />
 
 ---
 
