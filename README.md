@@ -15,11 +15,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML/CSS, JavaScript, ReactJS  
-- **Backend:** Basics of Node.js, Express.JS  
-- **Database & Tools:** SQL, MongoDB, Git, GitHub, VS Code, Netlify, Railway, Redux  
-
----
+- **Languages:** JavaScript, Python, C, C++, Java, SQL, HTML/CSS  
+- **Frameworks:**  React.js, Express.js, Node.js, FastAPI, Tailwind, Bootstrap  
+- **Tools:** GitHub, Jira, Postman, Docker, Render, Vercel, Netlify, Cloudflare, Redux Toolkit, VS Code, Cursor
+- **DataBase** MySQL, MongoDB
 
 ## 🔥 Current GitHub Streak
 <p align="center">
