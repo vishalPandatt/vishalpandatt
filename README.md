@@ -64,7 +64,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalPandatt&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalPandatt&layout=compact&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=vishalPandatt&theme=transparent)"/>
 </p>
 
 <p align="center">
