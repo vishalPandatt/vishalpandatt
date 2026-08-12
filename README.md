@@ -29,10 +29,10 @@
 ## 🧑‍💻 About Me
 
 
-- 🔭 **Currently working on:** a **Backend Technologies**
+- 🔭 **Currently working on:** a **Backend Technologies and DSA**
 - ⚡ **Full Stack Developer** specializing in **JavaScript, React.js and Node.js**
 - 🧠 **Interested in:** scalable backend systems & clean architecture
-- 💬 **Ask me about:** JavaScript, React, Node.js, MERN Stack
+- 💬 **Ask me about:** JavaScript, React, Node.js, MERN Stack Testing
 - 📫 **Reach me:** [vishal112vp@gmail.com](mailto:vishal112vp@gmail.com)
 
 ---
