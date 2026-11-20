@@ -8,7 +8,7 @@
     <a href="https://vishalvashishth.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://drive.google.com/file/d/1QrKKzJgb7DzKGb9VWW6OUTh5WvSypvTw/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1avf1rZPmoeM5eNYh1K8JkL91vaDjH2BC/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
     </a>
     <a href="https://www.linkedin.com/in/vishal-vashishth-b4920337b/" target="_blank">
